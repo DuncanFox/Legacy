@@ -11,5 +11,10 @@
         <module>LegacyB</module>
     </modules>
 
+    <scm>
+        <url>https://github.com/DuncanFox/Legacy</url>
+        <connection>scm:git:git://github.com/DuncanFox/Legacy.git</connection>
+        <developerConnection>scm:git:git@github.com:DuncanFox/Legacy.git</developerConnection>
+    </scm>
 
 </project>
